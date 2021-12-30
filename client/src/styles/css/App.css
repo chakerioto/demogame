@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.showUI {
+  display: block;
+}
+
+.hideUI {
+  display: none;
+}
+
+/*# sourceMappingURL=App.css.map */
